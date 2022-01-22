@@ -9,7 +9,7 @@
 
  
 # Oyunun Amacı  
- Oyunun amacı 30 saniye içerisinde rastgele bir şekilde yerleştirilen küp parçalarını toplayarak maksimum skoru elde etmektir. Her denemede yapılacak olan maksimum skorun değişebileceğini unutmayın! Buradaki asıl amaç oyuncunun her denemede kendi maksimum skorunu geçmeye çalışmasıdır.
+ Oyunun amacı 40 saniye içerisinde rastgele bir şekilde yerleştirilen küp parçalarını toplayarak maksimum skoru elde etmektir. Her denemede yapılacak olan maksimum skorun değişebileceğini unutmayın! Buradaki asıl amaç oyuncunun her denemede kendi maksimum skorunu geçmeye çalışmasıdır.
  
 # Oyunun Kontrolleri
  Oyunun kontrolleri oldukça basittir. Oyun içerisinde kontrol edebildiğimiz topu klavyeden W,A,S ve D tuşları ile hareket yönlerini belirleyebiliriz. Süre bitiminden sonra skorunuzu görebilir ve dilerseniz oyunu 'Tekrar Deneyiniz' butonuna tıklayarak yeniden başlatabilirsiniz. Mola menüsüne ulaşmak için sağ üst köşedeki buton kullanılabilir.Mola menüsü sayesinde Ana menüye dönüp oyunu tekrar başlatabilirsiniz veya oyuna kalınan yerden devam edilebilir.
