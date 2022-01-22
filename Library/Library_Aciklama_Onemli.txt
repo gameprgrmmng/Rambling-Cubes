@@ -1,0 +1,3 @@
+ Library klasörü 282 MB olduğu için ve içerisinde çok fazla sayıda klasör içerdiği için
+bütün bir şekilde yükleme yapamadık. Sıkıştırma yöntemi ile partlara bölerek yükleme yapmak
+zorunda kaldık.
