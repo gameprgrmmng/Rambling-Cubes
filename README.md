@@ -33,6 +33,8 @@
  
    # NOT
    Oyunu tam ekranda oynamak isterseniz ve oyun başlangıcında klavyeden kontrol edilemediğini fark etmeniz durumunda sahnenin ortasına gelerek mouse-un sol tuşuna basarak bu durumu düzeltebilirsiniz.
+   
+   Oyun içerisinde kullanılan ses dosyalarına şuradan ulaşabilirsiniz: https://www.chosic.com/free-music/games/
  
  
 Görkem BERBEROĞLU 
